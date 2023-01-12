@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>TRABALHANDO COM IMAGENS</h1>
+
+        <P>na sequência minha primeira imagem:</P>
+        <img src="703b279e128a9a0c1d754800957f191a8f595845_00.gif" alt="GIF de morcego">
+        <br>
+        <img src="Morceguinho.png" alt="Imagem de morcego">
+        <br>
+        <img src="https://s2.glbimg.com/VAX6UmH12im3p78hwlQ_ogpJiKM=/0x116:1600x1016/810x456/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2023/u/u/FfHVGRRhi2EcWivVopgg/whatsapp-image-2023-01-10-at-12.52.49.jpeg" alt="Imagem de jogador do São Paulo">
+</body>
+</html>
+
+
